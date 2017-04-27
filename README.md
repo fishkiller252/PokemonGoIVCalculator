@@ -1,3 +1,6 @@
-# PokemonGoIVCalculator
-ポケモンGO個体値計算機  
-[![Build Status](https://travis-ci.org/odanado/PokemonGoIVCalculator.svg?branch=master)](https://travis-ci.org/odanado/PokemonGoIVCalculator)
+＃PokemonGoIVCalculator
+<h1>お品書き</h1>
+ポケモンGO個体値計算機<br>
+ジョウト地方対応<br>
+
+
